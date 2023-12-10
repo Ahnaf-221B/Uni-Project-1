@@ -1,0 +1,10 @@
+Rice
+Chicken
+Beef
+Kichuri+Chicken
+kichuri+Egg
+Rice+Chicken
+Rice+Egg
+Rice+Fish
+Rice+vegitable
+Water
